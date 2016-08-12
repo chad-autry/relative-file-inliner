@@ -27,7 +27,5 @@
     "node": "true"
   },
   "dependencies": {
-    "line-by-line": "^0.1.5",
-    "minimist": "^1.2.0"
   }
 }
