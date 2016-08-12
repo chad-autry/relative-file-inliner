@@ -1,0 +1,10 @@
+This is a test
+I expect
+
+lorem ipsum
+
+to be inlined into this file.
+
+4 score and seven years ago
+
+as well

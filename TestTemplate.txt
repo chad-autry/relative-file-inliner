@@ -1,0 +1,10 @@
+This is a test
+I expect
+
+{{/resources/testResource.txt}}
+
+to be inlined into this file.
+
+{{/resources/testResource2.txt}}
+
+as well

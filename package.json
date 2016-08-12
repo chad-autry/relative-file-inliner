@@ -1,0 +1,33 @@
+{
+  "name": "relative-file-inliner",
+  "version": "0.0.0",
+  "description": "Processes a template and inlines relative files at tagged positions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run jshint",
+    "jshint": "jshint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chad-autry/relative-file-inliner.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Chad Autry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chad-autry/relative-file-inliner/issues"
+  },
+  "homepage": "https://github.com/chad-autry/relative-file-inliner#readme",
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  },
+  "jshintConfig": {
+    "node": "true"
+  },
+  "dependencies": {
+    "line-by-line": "^0.1.5",
+    "minimist": "^1.2.0"
+  }
+}
