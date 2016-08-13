@@ -1,6 +1,6 @@
 {
   "name": "relative-file-inliner",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Processes a template and inlines relative files at tagged positions",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,5 @@
   "jshintConfig": {
     "node": "true"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
